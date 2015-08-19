@@ -3,9 +3,9 @@
     "title" : "Google Places",
     "subtitle" : "POIs based on google places API",
     
-    "backButton" : true,
+    "backButton" : false,
     "enableGPS" : false,
-    "zoomControl" : true,
+    "zoomControl" : false,
     "screenLockRot" : false,
     "reload" : true,
        
