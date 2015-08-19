@@ -16,7 +16,7 @@
     "loadDataWithBaseUrl3" : "text/html",
     "loadDataWithBaseUrl4" : "utf-8",
 					    			
-    "browserLaunchLink" : "maps.google.com",
+    "browserLaunchLink" : "http://maps.google.com",
     
     "loadDataWithBaseUrl2" : 
 "
