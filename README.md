@@ -1,6 +1,8 @@
 # Google_Places
 Interesting POIs based on google places API (McDonalds, Burger King, Restaurants or what ever you want).
 
+<b>Due to a bug in webkit some phones require longclicks instead of 'normal' clicks.</b>
+
 You can search for points of interest (POIs) based on 'google places'.
 If you type the search term in quotation marks, only the names of the places are considered. Otherwise, the search term is matched against "... name, type, and address, as well as customer reviews and other third-party content."
 
