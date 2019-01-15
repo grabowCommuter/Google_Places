@@ -1,7 +1,7 @@
 {
   "moduleId" : "grabowCommuter/Google_Places",
   "title" : "Google Places",
-  "subtitle" : "Find POIs (FastFood, Parking, ...) on Google Maps",
+  "subtitle" : "POIs on Google Maps",
 
   "backButton" : true,
   "enableGPS" : true,
